@@ -54,9 +54,9 @@ _이텔릭체_<br/>
 # 이미지(Images)
 ![]()
 - 이미지 노출  
-![FastCampus-img](https://img.notionusercontent.com/s3/prod-files-secure%2Fd357369f-274b-44ab-b990-fe2070ceec91%2Fa3563f1a-0349-4566-bd2f-a23177145b5e%2Ffastcampus.png/size/w=40?exp=1739073859&sig=T-L_7Sn2D0cuj_Vots2Pbyljhac1jDopCiciNFSMp_I)
+![starbucks](https://raw.githubusercontent.com/choseohyeon1155/starbucks-randing-page/refs/heads/main/images/starbucks_logo.png)
 - 이미지 선택시 링크 제공  
-[![FastCampus-img](https://img.notionusercontent.com/s3/prod-files-secure%2Fd357369f-274b-44ab-b990-fe2070ceec91%2Fa3563f1a-0349-4566-bd2f-a23177145b5e%2Ffastcampus.png/size/w=40?exp=1739073859&sig=T-L_7Sn2D0cuj_Vots2Pbyljhac1jDopCiciNFSMp_I)](https://img.notionusercontent.com/s3/prod-files-secure%2Fd357369f-274b-44ab-b990-fe2070ceec91%2Fa3563f1a-0349-4566-bd2f-a23177145b5e%2Ffastcampus.png/size/w=40?exp=1739073859&sig=T-L_7Sn2D0cuj_Vots2Pbyljhac1jDopCiciNFSMp_I)
+[![starbucks](https://raw.githubusercontent.com/choseohyeon1155/starbucks-randing-page/refs/heads/main/images/starbucks_logo.png)](https://raw.githubusercontent.com/choseohyeon1155/starbucks-randing-page/refs/heads/main/images/starbucks_logo.png)
 
 # 인용문(BlockQuote)
 > 남의 말이나 글에서 직접 또는 간접으로 따온 문장.  
@@ -118,7 +118,7 @@ fixed | 뷰포트 | X
 
 <a herf="https://naver.com" title="NAVER로 이동!" target="_blank">NAVER</a>  
 
-<img width="70" src="https://img.notionusercontent.com/s3/prod-files-secure%2Fd357369f-274b-44ab-b990-fe2070ceec91%2Fa3563f1a-0349-4566-bd2f-a23177145b5e%2Ffastcampus.png/size/w=40?exp=1739073859&sig=T-L_7Sn2D0cuj_Vots2Pbyljhac1jDopCiciNFSMp_I" alt="FastCampus-img" />
+<img width="70" src="https://raw.githubusercontent.com/choseohyeon1155/starbucks-randing-page/refs/heads/main/images/starbucks_logo.png" alt="starbucks" />
 
 # 수평선(Horiontal Rule)
 
